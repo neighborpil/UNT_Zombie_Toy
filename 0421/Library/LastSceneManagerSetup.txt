@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/0428_2_midddleScene.unity
+  isLoaded: 1
+  isActive: 1
